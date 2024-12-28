@@ -9,6 +9,8 @@ public class FollowPlayer : MonoBehaviour
 
     private Vector3 initialPosition; // Initial position of the camera
 
+    // just a comment for the 2nd piush
+
     // Start is called before the first frame update
     void Start()
     {
